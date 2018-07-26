@@ -1,0 +1,13 @@
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\bin\Debug\netstandard2.0\LoginNavigation.deps.json
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\bin\Debug\netstandard2.0\LoginNavigation.dll
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\bin\Debug\netstandard2.0\LoginNavigation.pdb
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.csprojResolveAssemblyReference.cache
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.csproj.CoreCompileInputs.cache
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.AssemblyInfoInputs.cache
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.AssemblyInfo.cs
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.dll
+C:\Users\Gray\Desktop\LoginFlow\LoginNavigation\obj\Debug\netstandard2.0\LoginNavigation.pdb
